@@ -1,6 +1,9 @@
 bases:
 - ../../base/
 
+resources:
+- route.yml
+
 nameSuffix: -apac
 
 images:
